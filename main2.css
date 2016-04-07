@@ -1,0 +1,30 @@
+.amarillo{
+background: yellow;
+}/* Pon tu código css aqui */
+.azul{
+background: blue;
+}
+.rojo{
+background: red;
+}
+
+.cuadrado{
+	width: 25% ;
+	height: 100px;
+	float: right;
+	
+}
+
+.todo{
+	border: 1px solid gray;
+	width: 25%;
+
+}
+.clearfix:before, .clearfix:after{
+	content: "";
+	display: table;
+}
+
+.clearfix:after{
+	clear: both;
+}

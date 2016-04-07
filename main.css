@@ -1,0 +1,14 @@
+.amarillo{
+	background: yellow;
+}/* Pon tu código css aqui */
+.azul{
+background: blue;
+}
+.rojo{
+background: red;
+}
+
+.cuadrado{
+	width: 200px;
+	height: 150px;
+}
